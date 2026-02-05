@@ -1,11 +1,26 @@
-# 💫 About Me:
-- 🔭 Estudante de Desenvolvimento Web<br>- 🌱 Transformando ideias em código<br>- 💼 Procurando Estágio<br>- 🌟 Apaixonado por tecnologia e culinária
+# 📊 Caio Scarpim
 
+**`Analista de Dados`**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioeduardoscarpim/)
+<p>Me chamo Caio Scarpim, tenho 22 anos e sou do interior do Paraná. Sou formado em Sistemas para Internet pela UniCesumar. Tenho base em programação, o que fortalece minha capacidade de trabalhar com estruturas de dados, lógica de processamento e automação de análises.</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=caioscarpim&theme=chartreuse-dark&hide_border=true)
+---
+
+### Stack de Dados
+- <img 
+  align="left"
+  alt="SQL"
+  title="SQL"
+  width="25px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>SQL
+
+- <img
+  align="left"
+  alt="SQL Server"
+  title="SQL Server"
+  width="28px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+  /> SQL Server
+
+- Excel
